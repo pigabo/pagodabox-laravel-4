@@ -6,11 +6,13 @@ Provides a Quickstart installation of Laravel 4 including a preconfigured MySQL 
 
 You can install the Quickstart either directly from the [Pagoda Box App Cafe](https://pagodabox.com/cafe/briankiewel/laravel-4), as a Quickstart through your Pagoda Box dashboard during the new application creation process, or by cloning the [GitHub repository](https://github.com/briankiewel/pagodabox-laravel-4) and pushing it to an empty Pagoda Box application repository.
 
-Last updated: 6/6/2013
+Last updated: 6/16/2013
 
 ---
 
 ## Laravel PHP Framework
+
+[![Latest Stable Version](https://poser.pugx.org/laravel/framework/version.png)](https://packagist.org/packages/laravel/framework) [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.png)](https://packagist.org/packages/laravel/framework) [![Build Status](https://travis-ci.org/laravel/framework.png)](https://travis-ci.org/laravel/framework)
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
 
@@ -21,3 +23,11 @@ Laravel is accessible, yet powerful, providing powerful tools needed for large, 
 ## Official Documentation
 
 Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
+
+### Contributing To Laravel
+
+**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
+
+### License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
