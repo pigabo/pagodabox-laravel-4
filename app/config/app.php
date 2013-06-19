@@ -14,6 +14,7 @@ return array(
 	*/
 
 	'debug' => true,
+	'profiler' => true,
 
 	/*
 	|--------------------------------------------------------------------------
@@ -114,6 +115,7 @@ return array(
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
+		'Way\Generators\GeneratorsServiceProvider',
 
 	),
 
